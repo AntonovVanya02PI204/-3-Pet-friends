@@ -37,3 +37,17 @@ DELETE
 Получение ключа API
 
 ![image](https://user-images.githubusercontent.com/92279258/147344220-fa5edae7-57a1-44eb-a3ad-5c124761ad88.png)
+
+Получчения списка животных My_pets
+
+![image](https://user-images.githubusercontent.com/92279258/147344979-7cd29e70-e14e-4a1a-b7e1-62f354f426de.png)
+
+Создание новой карточки животного
+
+![image](https://user-images.githubusercontent.com/92279258/147345095-773847a2-4118-46a0-b475-458f0f846aef.png)
+
+Добавление фото для животного
+
+![image](https://user-images.githubusercontent.com/92279258/147345234-79cb9e5e-9fd9-4914-a331-8f4168b5dc73.png)
+
+
