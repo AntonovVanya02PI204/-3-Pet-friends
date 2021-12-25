@@ -48,7 +48,8 @@ DELETE
 
 Добавление фото для животного
 
-![image](https://user-images.githubusercontent.com/92279258/147345234-79cb9e5e-9fd9-4914-a331-8f4168b5dc73.png)
+![image](https://user-images.githubusercontent.com/92279258/147376683-ec6924b2-312b-4d5f-9d36-47229f9387aa.png)
+
 
 Удаление карточки животного
 
