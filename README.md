@@ -55,5 +55,10 @@ DELETE
 
 ![image](https://user-images.githubusercontent.com/92279258/147376636-939b8339-8340-4023-97d0-3e3e56288e1c.png)
 
+Обновление информации о животном
+
+![image](https://user-images.githubusercontent.com/92279258/147376745-6f524d02-68c7-4191-9567-1572be00b53b.png)
+
+
 
 
