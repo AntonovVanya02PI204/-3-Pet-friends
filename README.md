@@ -50,4 +50,9 @@ DELETE
 
 ![image](https://user-images.githubusercontent.com/92279258/147345234-79cb9e5e-9fd9-4914-a331-8f4168b5dc73.png)
 
+Удаление карточки животного
+
+![image](https://user-images.githubusercontent.com/92279258/147376636-939b8339-8340-4023-97d0-3e3e56288e1c.png)
+
+
 
