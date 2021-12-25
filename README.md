@@ -59,6 +59,20 @@ DELETE
 
 ![image](https://user-images.githubusercontent.com/92279258/147376745-6f524d02-68c7-4191-9567-1572be00b53b.png)
 
+Как видим, каждая функция работает, следовательно, на сайте отображаются все проделанные действия. Для тестирования функций API, была использована библиотека Pytest. ( как и в лекции). Также в работе были использованы фикстуры и параметризация ( это можно увидеть в исходных файлах с кодом). 
 
+Фикстура
+
+![image](https://user-images.githubusercontent.com/92279258/147376821-671ed9b7-0cbc-4884-a649-64fe6c1241c2.png)
+
+Параметризация
+
+![image](https://user-images.githubusercontent.com/92279258/147376831-03d3f6dc-c09e-4cf5-94af-c12ef2e3278b.png)
+
+ фото питомца
+
+![image](https://user-images.githubusercontent.com/92279258/147376845-eb486fd7-0ab5-4dff-91b6-e8f35bb2b07b.png)
+
+![image](https://user-images.githubusercontent.com/92279258/147376859-e25de771-fe5e-45e1-8726-f62aeda00ada.png)
 
 
